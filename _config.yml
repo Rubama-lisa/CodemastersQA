@@ -1,2 +1,8 @@
+title: "Name"
+
+
 navigation:
   - {file:"sample2.html", icon: home}
+  
+  plugins:
+    -kekyll-feed
